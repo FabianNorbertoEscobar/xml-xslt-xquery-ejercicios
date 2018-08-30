@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="Libreria">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Libro" type="TipoLibro"
+					minOccurs="0" maxOccurs="unbounded" />
+
+				<xsd:element name="Autor" type="TipoAutor"
+					minOccurs="0" maxOccurs="unbounded" />
+			</xsd:sequence>
+		</xsd:complexType>
+
+		<xsd:key name="LibroKey">
+			<xsd:selector xpath="Libro" />
+			<xsd:field xpath="@ISBN" />
+		</xsd:key>
+
+		<xsd:key name="AutorKey">
+			<xsd:selector xpath="Autor" />
+			<xsd:field xpath="@Ident" />
+		</xsd:key>
+
+		<xsd:keyref name="AutorKeyRef" refer="AutorKey">
+			<xsd:selector xpath="Libro/Autores/Autor" />
+			<xsd:field xpath="@autIdent" />
+		</xsd:keyref>
+	</xsd:element>
+
+	<xsd:complexType name="TipoLibro">
+		<xsd:sequence>
+			<xsd:element name="Titulo" type="xsd:string" />
+			<xsd:element name="Autores">
+				<xsd:complexType>
+					<xsd:sequence>
+						<xsd:element name="Autor" maxOccurs="unbounded">
+							<xsd:complexType>
+								<xsd:attribute name="autIdent" type="xsd:string"
+									use="required" />
+							</xsd:complexType>
+						</xsd:element>
+					</xsd:sequence>
+				</xsd:complexType>
+			</xsd:element>
+		</xsd:sequence>
+
+		<xsd:attribute name="ISBN" type="xsd:string" use="required" />
+		<xsd:attribure name="Price" type="xsd:integer" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="TipoAutor">
+		<xsd:sequence>
+			<xsd:element name="nombre" type="xsd:string" />
+			<xsd:element name="apellido" type="xsd:string" />
+		</xsd:sequence>
+
+		<xsd:attribute name="Ident" type="xsd:string" use="required" />
+	</xsd:complexType>
+</xml:schema>

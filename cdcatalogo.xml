@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- hoja de estilos -->
+<?xml-stylesheet type="text/xsl" href="cdcatalogo.xsl"?>
+
+<catalogo>
+
+	<cd>
+		<titulo>Circo beat</titulo>
+		<artista>Fito Paez</artista>
+		<pais>ARG</pais>
+		<empresa>Warner Music</empresa>
+		<precio>25.50</precio>
+		<año>1996</año>
+	</cd>
+
+	<cd>
+		<titulo>Clics modernos</titulo>
+		<artista>Charlie Garcia</artista>
+		<pais>ARG</pais>
+		<empresa>SG Discos</empresa>
+		<precio>40</precio>
+		<año>1983</año>
+	</cd>
+
+	<cd>
+		<titulo>Voodo Lounge</titulo>
+		<artista>The Rolling Stones</artista>
+		<pais>UK</pais>
+		<empresa>Virgin</empresa>
+		<precio>45.20</precio>
+		<año>1994</año>
+	</cd>
+
+</catalogo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Alumnos>
+    <Alumno dni='123456'>Juan Perez</Alumno>
+    <Alumno dni='981567'>Ana Sánchez</Alumno>
+</Alumnos>

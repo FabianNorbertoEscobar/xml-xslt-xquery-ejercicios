@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Libreria>
+
+	<Libro ISBN="ISBN-0-13-713526-2" Precio="100">
+		<Titulo>Primer curso de Base de Datos</Titulo>
+		<Autores>
+			<Autor autIdent="JU"/>
+			<Autor autIdent="JW"/>
+		</Autores>
+	</Libro>
+
+	<Libro ISBN="ISBN-0-13-815504-6" Precio="85">
+		<Titulo>Bases de datos: libro completo</Titulo>
+		<Autores>
+			<Autor autIdent="HG"/>
+			<Autor autIdent="JU"/>
+			<Autor autIdent="JW"/>
+		</Autores>
+	</Libro>
+
+	<Autor Ident="HG">
+		<nombre>Héctor</nombre>
+		<apellido>García-Molina</apellido>
+	</Autor>
+
+	<Autor Ident="JU">
+		<nombre>Jeffrey</nombre>
+		<apellido>Ullman</apellido>
+	</Autor>
+
+	<Autor Ident="JW">
+		<nombre>Jennifer</nombre>
+		<apellido>Widom</apellido>
+	</Autor>
+
+</Libreria>

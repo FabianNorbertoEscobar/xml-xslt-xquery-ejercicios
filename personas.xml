@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE personas SYSTEM "personas.dtd">
+
+<personas>
+
+	<persona>
+		<nombre>Diego</nombre>
+		<apellido>Nuñez</apellido>
+		<fechaNac>21/01/2001</fechaNac>
+		<genero>Masculino</genero>
+	</persona>
+
+	<persona>
+		<nombre>Ana</nombre>
+		<apellido>Díaz</apellido>
+		<fechaNac>01/02/1998</fechaNac>
+		<genero>Femenino</genero>
+		<tel>011-3535-5353</tel>
+	</persona>
+
+	<persona>
+		<nombre>Pablo</nombre>
+		<apellido>Perez</apellido>
+		<fechaNac>05/08/1957</fechaNac>
+		<genero>Masculino</genero>
+		<tel>011-4242-2424</tel>
+		<cel>011-15-9876-5432</cel>
+	</persona>
+
+
+</personas>
