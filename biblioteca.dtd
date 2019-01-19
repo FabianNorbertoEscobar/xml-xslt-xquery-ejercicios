@@ -1,0 +1,7 @@
+<!ELEMENT biblioteca (libro+)>
+<!ELEMENT libro (titulo, autor*, anyo?, editorial?)>
+<!ATLIST libro cod CDATA #REQUIRED>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT anyo (#PCDATA)>

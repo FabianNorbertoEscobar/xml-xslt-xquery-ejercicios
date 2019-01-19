@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+	<libro cod="1">
+		<titulo>XML para todos</titulo>
+		<autor>Sergio Luján Mora</autor>
+		<anyo>2001</anyo>
+		<editorial>UA Prensa</editorial>
+	</libro>
+	<libro cod="11">
+		<titulo>Como aprobar una oposición</titulo>
+		<autor>Marisa Zayas Fornieles</autor>
+		<anyo>1999</anyo>
+		<editorial>Prensa Editorial</editorial>
+	</libro>
+</biblioteca>

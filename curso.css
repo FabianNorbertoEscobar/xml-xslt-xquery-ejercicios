@@ -1,0 +1,33 @@
+curso, titulo, unidad, unidad:before, lecciones, leccion, leccion:before{
+	display: block;
+}
+
+curso{
+	width: 80%;
+	margin: 20px auto;
+	background-color: #bbf;
+}
+
+titulo{
+	text-align: center;
+	font-weight: bold;
+}
+
+unidad:before{
+	content: attr(titulo);
+	margin-bottom: 10px;
+	border-bottom: 2px dashed #000;
+	font-size: 2em;
+}
+
+leccion:before{
+	content: attr(titulo);
+	margin-bottom: 10px;
+	border-bottom: 2px dashed #000;
+	font-size: 1.6em;
+}
+
+leccion{
+	margin-bottom: 10px;
+}
+

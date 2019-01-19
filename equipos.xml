@@ -1,0 +1,137 @@
+<equipos>
+  <equipo nombre="Aire de Levan">
+    <entrenador>11</entrenador>
+    <capitan>41</capitan>
+    <jugadores>
+      <jugador>17</jugador>
+      <jugador>18</jugador>
+      <jugador>19</jugador>
+      <jugador>20</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Antrax">
+    <entrenador>6</entrenador>
+    <capitan>77</capitan>
+    <jugadores>
+      <jugador>67</jugador>
+      <jugador>68</jugador>
+      <jugador>68</jugador>
+      <jugador>70</jugador>
+      <jugador>71</jugador>
+      <jugador>72</jugador>
+      <jugador>73</jugador>
+      <jugador>74</jugador>
+      <jugador>75</jugador>
+      <jugador>76</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Athlético PI">
+    <entrenador>9</entrenador>
+    <capitan>26</capitan>
+    <jugadores>
+      <jugador>23</jugador>
+      <jugador>24</jugador>
+      <jugador>25</jugador>
+      <jugador>27</jugador>
+      <jugador>28</jugador>
+      <jugador>29</jugador>
+      <jugador>30</jugador>
+      <jugador>31</jugador>
+      <jugador>32</jugador>
+      <jugador>33</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Campeones">
+    <entrenador>1</entrenador>
+    <capitan>78</capitan>
+    <jugadores>
+        <jugador>79</jugador>
+        <jugador>80</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Camperos">
+    <entrenador>7</entrenador>
+    <capitan>15</capitan>
+    <jugadores>
+      <jugador>12</jugador>
+      <jugador>13</jugador>
+      <jugador>14</jugador>
+      <jugador>16</jugador>
+      <jugador>21</jugador>
+      <jugador>22</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Club del Sur">
+    <entrenador>4</entrenador>
+    <capitan>39</capitan>
+    <jugadores>
+      <jugador>34</jugador>
+      <jugador>35</jugador>
+      <jugador>36</jugador>
+      <jugador>37</jugador>
+      <jugador>38</jugador>
+      <jugador>40</jugador>
+      <jugador>42</jugador>
+      <jugador>43</jugador>
+      <jugador>44</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Club Raya">
+    <entrenador>5</entrenador>
+    <capitan>10</capitan>
+    <jugadores>
+      <jugador>11</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Lagartos">
+    <entrenador>2</entrenador>
+    <capitan>8</capitan>
+    <jugadores>
+      <jugador>1</jugador>
+      <jugador>2</jugador>
+      <jugador>3</jugador>
+      <jugador>4</jugador>
+      <jugador>5</jugador>
+      <jugador>6</jugador>
+      <jugador>7</jugador>
+      <jugador>9</jugador>
+      </jugadores>
+  </equipo>
+  <equipo nombre="Mosquitos">
+    <entrenador>3</entrenador>
+    <capitan>58</capitan>
+    <jugadores>
+      <jugador>56</jugador>
+      <jugador>57</jugador>
+      <jugador>59</jugador>
+      <jugador>60</jugador>
+      <jugador>61</jugador>
+      <jugador>62</jugador>
+      <jugador>63</jugador>
+      <jugador>64</jugador>
+      <jugador>65</jugador>
+      <jugador>66</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Roteña">
+    <entrenador>8</entrenador>
+    <capitan>49</capitan>
+    <jugadores>
+      <jugador>45</jugador>
+      <jugador>46</jugador>
+      <jugador>47</jugador>
+      <jugador>48</jugador>
+      <jugador>50</jugador>
+      <jugador>51</jugador>
+      <jugador>52</jugador>
+      <jugador>53</jugador>
+      <jugador>54</jugador>
+      <jugador>55</jugador>
+    </jugadores>
+  </equipo>
+  <equipo nombre="Sin Sentido">
+    <entrenador>10</entrenador>
+    <capitan></capitan>
+    <jugadores/>
+  </equipo>
+</equipos>

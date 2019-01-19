@@ -1,0 +1,464 @@
+<jugadores>
+  <jugador cod="1">
+    <nombre>Pepe</nombre>
+    <apellido1>Lillo</apellido1>
+    <apellido2>San Pedro</apellido2>
+    <alias>Pepillo</alias>
+    <fecha_nacimiento>1995-06-12</fecha_nacimiento>
+  </jugador>
+  <jugador cod="2">
+    <nombre>Pedro</nombre>
+    <apellido1>González</apellido1>
+    <apellido2>Hernández</apellido2>
+    <alias>Pedro</alias>
+    <fecha_nacimiento>1997-05-06</fecha_nacimiento>
+  </jugador>
+  <jugador cod="3">
+    <nombre>Manolo</nombre>
+    <apellido1>Fernández</apellido1>
+    <apellido2>Díaz</apellido2>
+    <alias>Manolo</alias>
+    <fecha_nacimiento>1994-01-08</fecha_nacimiento>
+  </jugador>
+  <jugador cod="4">
+    <nombre>Manuel</nombre>
+    <apellido1>Rodríguez</apellido1>
+    <apellido2>Moreno</apellido2>
+    <alias>Lolo</alias>
+    <fecha_nacimiento>1987-10-14</fecha_nacimiento>
+  </jugador>
+  <jugador cod="5">
+    <nombre>Oscar</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>Álvarez</apellido2>
+    <alias>Oscar</alias>
+    <fecha_nacimiento>1987-11-10</fecha_nacimiento>
+  </jugador>
+  <jugador cod="6">
+    <nombre>Antonio</nombre>
+    <apellido1>Martínez</apellido1>
+    <apellido2>Muñoz</apellido2>
+    <alias>Antonio</alias>
+    <fecha_nacimiento>1990-04-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="7">
+    <nombre>Manuel J.</nombre>
+    <apellido1>Sánchez</apellido1>
+    <apellido2>Romero</apellido2>
+    <alias>Romerito</alias>
+    <fecha_nacimiento>1997-06-25</fecha_nacimiento>
+  </jugador>
+  <jugador cod="8">
+    <nombre>Alejandro</nombre>
+    <apellido1>Pérez</apellido1>
+    <apellido2>Alonso</apellido2>
+    <alias>Alejandro</alias>
+    <fecha_nacimiento>1990-09-15</fecha_nacimiento>
+  </jugador>
+  <jugador cod="9">
+    <nombre>Santiago</nombre>
+    <apellido1>Gómez</apellido1>
+    <apellido2>Gutiérrez</apellido2>
+    <alias>Gago</alias>
+    <fecha_nacimiento>1987-06-01</fecha_nacimiento>
+  </jugador>
+  <jugador cod="10">
+    <nombre>Rafael</nombre>
+    <apellido1>Martín</apellido1>
+    <apellido2>Santos</apellido2>
+    <alias>Rafael</alias>
+    <fecha_nacimiento>1989-06-08</fecha_nacimiento>
+  </jugador>
+  <jugador cod="11">
+    <nombre>Antonio</nombre>
+    <apellido1>Jiménez</apellido1>
+    <apellido2>Gil</apellido2>
+    <alias>Toño</alias>
+    <fecha_nacimiento>1998-01-07</fecha_nacimiento>
+  </jugador>
+  <jugador cod="12">
+    <nombre>Pepe</nombre>
+    <apellido1>Ruiz</apellido1>
+    <apellido2>García</apellido2>
+    <alias>Gato</alias>
+    <fecha_nacimiento>1997-06-11</fecha_nacimiento>
+  </jugador>
+  <jugador cod="13">
+    <nombre>Federico</nombre>
+    <apellido1>Hernández</apellido1>
+    <apellido2>González</apellido2>
+    <alias>Lio</alias>
+    <fecha_nacimiento>1991-08-19</fecha_nacimiento>
+  </jugador>
+  <jugador cod="14">
+    <nombre>Manolo</nombre>
+    <apellido1>Díaz</apellido1>
+    <apellido2>Fernández</apellido2>
+    <alias>Lolo</alias>
+    <fecha_nacimiento>1993-03-21</fecha_nacimiento>
+  </jugador>
+  <jugador cod="15">
+    <nombre>Fernando</nombre>
+    <apellido1>Moreno</apellido1>
+    <apellido2>Rodríguez</apellido2>
+    <alias>Fernando</alias>
+    <fecha_nacimiento>1994-12-25</fecha_nacimiento>
+  </jugador>
+  <jugador cod="16">
+    <nombre>Rafael</nombre>
+    <apellido1>Álvarez</apellido1>
+    <apellido2>López</apellido2>
+    <alias>Lute</alias>
+    <fecha_nacimiento>1999-06-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="17">
+    <nombre>Jimeno</nombre>
+    <apellido1>Muñoz</apellido1>
+    <apellido2>Martínez</apellido2>
+    <alias>Jimeno</alias>
+    <fecha_nacimiento>1998-11-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="18">
+    <nombre>Juan</nombre>
+    <apellido1>Romero</apellido1>
+    <apellido2>Sánchez</apellido2>
+    <alias>Juan</alias>
+    <fecha_nacimiento>1999-04-03</fecha_nacimiento>
+  </jugador>
+  <jugador cod="19">
+    <nombre>Juan</nombre>
+    <apellido1>Alonso</apellido1>
+    <apellido2>Pérez</apellido2>
+    <alias>Coco</alias>
+    <fecha_nacimiento>1993-08-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="20">
+    <nombre>Victor</nombre>
+    <apellido1>Gutiérrez</apellido1>
+    <apellido2>Gómez</apellido2>
+    <alias>Victor</alias>
+    <fecha_nacimiento>1994-06-01</fecha_nacimiento>
+  </jugador>
+  <jugador cod="21">
+    <nombre>José Manuel</nombre>
+    <apellido1>Santos</apellido1>
+    <apellido2>Martín</apellido2>
+    <alias>Flequi</alias>
+    <fecha_nacimiento>1990-02-27</fecha_nacimiento>
+  </jugador>
+  <jugador cod="22">
+    <nombre>Ángel</nombre>
+    <apellido1>Gil</apellido1>
+    <apellido2>Jiménez</apellido2>
+    <alias>Ángel</alias>
+    <fecha_nacimiento>1996-07-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="23">
+    <nombre>Manuel</nombre>
+    <apellido1>Otero</apellido1>
+    <apellido2>Martínez</apellido2>
+    <alias>Gato</alias>
+    <fecha_nacimiento>1984-10-22</fecha_nacimiento>
+  </jugador>
+  <jugador cod="24">
+    <nombre>Manuel</nombre>
+    <apellido1>Torres</apellido1>
+    <apellido2>García</apellido2>
+    <alias>Manuel</alias>
+    <fecha_nacimiento>1993-07-03</fecha_nacimiento>
+  </jugador>
+  <jugador cod="25">
+    <nombre>Antonio</nombre>
+    <apellido1>Pérez</apellido1>
+    <apellido2>Gil</apellido2>
+    <alias>Antonio</alias>
+    <fecha_nacimiento>1981-02-17</fecha_nacimiento>
+  </jugador>
+  <jugador cod="26">
+    <nombre>Fernando</nombre>
+    <apellido1>Coll</apellido1>
+    <apellido2>Pelayo</apellido2>
+    <alias>El balita</alias>
+    <fecha_nacimiento>1984-10-21</fecha_nacimiento>
+  </jugador>
+  <jugador cod="27">
+    <nombre>Sergio</nombre>
+    <apellido1>Bueno</apellido1>
+    <apellido2>Gómez</apellido2>
+    <alias>Sergio</alias>
+    <fecha_nacimiento>1983-01-10</fecha_nacimiento>
+  </jugador>
+  <jugador cod="28">
+    <nombre>José</nombre>
+    <apellido1>Domínguez</apellido1>
+    <apellido2>Álvarez</apellido2>
+    <alias>José</alias>
+    <fecha_nacimiento>1981-01-20</fecha_nacimiento>
+  </jugador>
+  <jugador cod="29">
+    <nombre>José Manuel</nombre>
+    <apellido1>Murillo</apellido1>
+    <apellido2>Corbalán</apellido2>
+    <alias>José Manuel</alias>
+    <fecha_nacimiento>1984-07-05</fecha_nacimiento>
+  </jugador>
+  <jugador cod="30">
+    <nombre>Suso</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>Figueroa</apellido2>
+    <alias>Ronco</alias>
+    <fecha_nacimiento>1988-08-23</fecha_nacimiento>
+  </jugador>
+  <jugador cod="31">
+    <nombre>Mario</nombre>
+    <apellido1>Laguna</apellido1>
+    <apellido2>Osuna</apellido2>
+    <alias>Tigre</alias>
+    <fecha_nacimiento>1981-09-25</fecha_nacimiento>
+  </jugador>
+  <jugador cod="32">
+    <nombre>José María</nombre>
+    <apellido1>Martin</apellido1>
+    <apellido2>Suarez</apellido2>
+    <alias>José María</alias>
+    <fecha_nacimiento>1996-10-26</fecha_nacimiento>
+  </jugador>
+  <jugador cod="33">
+    <nombre>Antonio</nombre>
+    <apellido1>Fernández</apellido1>
+    <apellido2>Gómez</apellido2>
+    <alias>Antonio</alias>
+    <fecha_nacimiento>1991-01-08</fecha_nacimiento>
+  </jugador>
+  <jugador cod="34">
+    <nombre>Juan Antonio</nombre>
+    <apellido1>González</apellido1>
+    <apellido2>Gil</apellido2>
+    <alias>Juan Antonio</alias>
+    <fecha_nacimiento>1993-04-14</fecha_nacimiento>
+  </jugador>
+  <jugador cod="35">
+    <nombre>Rafael</nombre>
+    <apellido1>Martin</apellido1>
+    <apellido2>Sánchez</apellido2>
+    <alias>Pelao</alias>
+    <fecha_nacimiento>1989-04-28</fecha_nacimiento>
+  </jugador>
+  <jugador cod="36">
+    <nombre>Miguel Ángel</nombre>
+    <apellido1>Bayón</apellido1>
+    <apellido2>Gutiérrez</apellido2>
+    <alias>Miguel Ángel</alias>
+    <fecha_nacimiento>1987-01-05</fecha_nacimiento>
+  </jugador>
+  <jugador cod="37">
+    <nombre>Pablo</nombre>
+    <apellido1>Vázquez</apellido1>
+    <apellido2>Soria</apellido2>
+    <alias>Pablo</alias>
+    <fecha_nacimiento>1981-04-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="38">
+    <nombre>Francisco Javier</nombre>
+    <apellido1>Domínguez</apellido1>
+    <apellido2>Rojas</apellido2>
+    <alias>Francisco Javier</alias>
+    <fecha_nacimiento>1982-05-09</fecha_nacimiento>
+  </jugador>
+  <jugador cod="39">
+    <nombre>Jorge</nombre>
+    <apellido1>Ferri</apellido1>
+    <apellido2>Barrios</apellido2>
+    <alias>Jorge</alias>
+    <fecha_nacimiento>1988-12-20</fecha_nacimiento>
+  </jugador>
+  <jugador cod="40">
+    <nombre>Francisco Javier</nombre>
+    <apellido1>Bazán</apellido1>
+    <apellido2>Fernández</apellido2>
+    <alias>Francisco Javier</alias>
+    <fecha_nacimiento>1997-04-26</fecha_nacimiento>
+  </jugador>
+  <jugador cod="41">
+    <nombre>Jorge</nombre>
+    <apellido1>Sempere</apellido1>
+    <apellido2>Ramírez</apellido2>
+    <alias>Foty</alias>
+    <fecha_nacimiento>1987-11-02</fecha_nacimiento>
+  </jugador>
+  <jugador cod="42">
+    <nombre>Juan</nombre>
+    <apellido1>Ramírez</apellido1>
+    <apellido2>Martin</apellido2>
+    <alias>Juan</alias>
+    <fecha_nacimiento>1994-07-17</fecha_nacimiento>
+  </jugador>
+  <jugador cod="43">
+    <nombre>Alejandro</nombre>
+    <apellido1>Costa</apellido1>
+    <apellido2>Vera</apellido2>
+    <alias>Alejandro</alias>
+    <fecha_nacimiento>1989-06-14</fecha_nacimiento>
+  </jugador>
+  <jugador cod="44">
+    <nombre>Mario</nombre>
+    <apellido1>Orellana</apellido1>
+    <apellido2>Cañadas</apellido2>
+    <alias>Mario</alias>
+    <fecha_nacimiento>1988-12-19</fecha_nacimiento>
+  </jugador>
+  <jugador cod="45">
+    <nombre>Julio</nombre>
+    <apellido1>Menacho</apellido1>
+    <apellido2>Rodríguez</apellido2>
+    <alias>Julio</alias>
+    <fecha_nacimiento>1988-11-22</fecha_nacimiento>
+  </jugador>
+  <jugador cod="46">
+    <nombre>Juan</nombre>
+    <apellido1>Ortiz</apellido1>
+    <apellido2>Ortega</apellido2>
+    <alias>Pilu</alias>
+    <fecha_nacimiento>1982-09-24</fecha_nacimiento>
+  </jugador>
+  <jugador cod="47">
+    <nombre>Víctor</nombre>
+    <apellido1>Muñoz</apellido1>
+    <apellido2>Muñiz</apellido2>
+    <alias>Víctor</alias>
+    <fecha_nacimiento>1985-10-15</fecha_nacimiento>
+  </jugador>
+  <jugador cod="48">
+    <nombre>Manuel</nombre>
+    <apellido1>Ramírez</apellido1>
+    <apellido2>Singh</apellido2>
+    <alias>Manuel</alias>
+    <fecha_nacimiento>1983-04-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="49">
+    <nombre>Antonio</nombre>
+    <apellido1>Molina</apellido1>
+    <apellido2>Gutiérrez</apellido2>
+    <alias>Antonio</alias>
+    <fecha_nacimiento>1985-11-07</fecha_nacimiento>
+  </jugador>
+  <jugador cod="50">
+    <nombre>Sergio</nombre>
+    <apellido1>García</apellido1>
+    <apellido2>Mínguez</apellido2>
+    <alias>Sergio</alias>
+    <fecha_nacimiento>1987-02-20</fecha_nacimiento>
+  </jugador>
+  <jugador cod="51">
+    <nombre>Francisco</nombre>
+    <apellido1>Pérez</apellido1>
+    <apellido2>García</apellido2>
+    <alias>Francisco</alias>
+    <fecha_nacimiento>1993-12-02</fecha_nacimiento>
+  </jugador>
+  <jugador cod="52">
+    <nombre>Raúl</nombre>
+    <apellido1>Blanco</apellido1>
+    <apellido2>Santos</apellido2>
+    <alias>Raúl</alias>
+    <fecha_nacimiento>1991-03-13</fecha_nacimiento>
+  </jugador>
+  <jugador cod="53">
+    <nombre>Daniel</nombre>
+    <apellido1>Pascual</apellido1>
+    <apellido2>Robles</apellido2>
+    <alias>Daniel</alias>
+    <fecha_nacimiento>1980-02-29</fecha_nacimiento>
+  </jugador>
+  <jugador cod="54">
+    <nombre>Antonio</nombre>
+    <apellido1>Martínez</apellido1>
+    <apellido2>Ferrer</apellido2>
+    <alias>Cafelito</alias>
+    <fecha_nacimiento>1988-07-14</fecha_nacimiento>
+  </jugador>
+  <jugador cod="55">
+    <nombre>Marcos</nombre>
+    <apellido1>Vega</apellido1>
+    <apellido2>Herraiz</apellido2>
+    <alias>Marcos</alias>
+    <fecha_nacimiento>1991-09-13</fecha_nacimiento>
+  </jugador>
+  <jugador cod="56">
+    <nombre>Pedro</nombre>
+    <apellido1>Rivera</apellido1>
+    <apellido2>Bernardo</apellido2>
+    <alias>Pedro</alias>
+    <fecha_nacimiento>1981-03-23</fecha_nacimiento>
+  </jugador>
+  <jugador cod="57">
+    <nombre>José Luis</nombre>
+    <apellido1>Mesa</apellido1>
+    <apellido2>Pérez</apellido2>
+    <alias>José Luis</alias>
+    <fecha_nacimiento>1995-09-04</fecha_nacimiento>
+  </jugador>
+  <jugador cod="58">
+    <nombre>Javier</nombre>
+    <apellido1>Carazo</apellido1>
+    <apellido2>Romero</apellido2>
+    <alias>Javier</alias>
+    <fecha_nacimiento>1989-03-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="59">
+    <nombre>Jesús</nombre>
+    <apellido1>Vega</apellido1>
+    <apellido2>Contreras</apellido2>
+    <alias>Jesús</alias>
+    <fecha_nacimiento>1995-11-15</fecha_nacimiento>
+  </jugador>
+  <jugador cod="60">
+    <nombre>Jesús</nombre>
+    <apellido1>Caballero</apellido1>
+    <apellido2>Ferrándiz</apellido2>
+    <alias>Jesús</alias>
+    <fecha_nacimiento>1989-08-02</fecha_nacimiento>
+  </jugador>
+  <jugador cod="61">
+    <nombre>Joaquín</nombre>
+    <apellido1>Giner</apellido1>
+    <apellido2>Sánchez</apellido2>
+    <alias>Joaquín</alias>
+    <fecha_nacimiento>1984-03-28</fecha_nacimiento>
+  </jugador>
+  <jugador cod="62">
+    <nombre>Juan</nombre>
+    <apellido1>Rodríguez</apellido1>
+    <apellido2>Noguera</apellido2>
+    <alias>Juan</alias>
+    <fecha_nacimiento>1986-01-02</fecha_nacimiento>
+  </jugador>
+  <jugador cod="63">
+    <nombre>Jorge</nombre>
+    <apellido1>Gómez</apellido1>
+    <apellido2>Vila</apellido2>
+    <alias>Negro</alias>
+    <fecha_nacimiento>1987-11-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="64">
+    <nombre>Miguel Ángel</nombre>
+    <apellido1>Villanueva</apellido1>
+    <apellido2>Flores</apellido2>
+    <alias>Miguel Ángel</alias>
+    <fecha_nacimiento>1988-12-06</fecha_nacimiento>
+  </jugador>
+  <jugador cod="65">
+    <nombre>José Luis</nombre>
+    <apellido1>Martin</apellido1>
+    <apellido2>Tejera</apellido2>
+    <alias>José Luis</alias>
+    <fecha_nacimiento>1980-06-20</fecha_nacimiento>
+  </jugador>
+  <jugador cod="66">
+    <nombre>Antonio</nombre>
+    <apellido1>Fuster</apellido1>
+    <apellido2>López</apellido2>
+    <alias>Rubio</alias>
+    <fecha_nacimiento>1995-08-06</fecha_nacimiento>
+  </jugador>
+</jugadores>

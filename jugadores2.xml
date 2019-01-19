@@ -1,0 +1,95 @@
+<jugadores>
+  <jugador cod="67">
+    <nombre>Bartolomé</nombre>
+    <apellido1>Rodríguez</apellido1>
+    <apellido2>Casas</apellido2>
+    <fecha_nacimiento>1991-02-11</fecha_nacimiento>
+  </jugador>
+  <jugador cod="68">
+    <nombre>Juan</nombre>
+    <apellido1>González</apellido1>
+    <apellido2>Fernández</apellido2>
+    <alias>Juanin</alias>
+    <fecha_nacimiento>2002-06-16</fecha_nacimiento>
+  </jugador>
+  <jugador cod="69">
+    <nombre>José María</nombre>
+    <apellido1>Salas</apellido1>
+    <apellido2>Rosal</apellido2>
+    <fecha_nacimiento>1994-01-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="70">
+    <nombre>Antonio José</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>María</apellido2>
+    <alias>Toño</alias>
+    <fecha_nacimiento>1997-01-14</fecha_nacimiento>
+  </jugador>
+  <jugador cod="71">
+    <nombre>Mario</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>Hurtado</apellido2>
+    <alias>Mario</alias>
+    <fecha_nacimiento>2000-11-10</fecha_nacimiento>
+  </jugador>
+  <jugador cod="72">
+    <nombre>Antonio</nombre>
+    <apellido1>Beltrán</apellido1>
+    <apellido2>Muñoz</apellido2>
+    <fecha_nacimiento>1990-04-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="73">
+    <nombre>Manuel José</nombre>
+    <apellido1>Haro</apellido1>
+    <apellido2>Roca</apellido2>
+    <alias>Jarillo</alias>
+    <fecha_nacimiento>1999-06-21</fecha_nacimiento>
+  </jugador>
+  <jugador cod="74">
+    <nombre>Ginés</nombre>
+    <apellido1>Llamas</apellido1>
+    <apellido2>Alonso</apellido2>
+    <fecha_nacimiento>1991-10-25</fecha_nacimiento>
+  </jugador>
+  <jugador cod="75">
+    <nombre>Guillermo</nombre>
+    <apellido1>Barco</apellido1>
+    <apellido2>Gutiérrez</apellido2>
+    <alias>Guille</alias>
+    <fecha_nacimiento>1997-06-11</fecha_nacimiento>
+  </jugador>
+  <jugador cod="76">
+    <nombre>Rafael</nombre>
+    <apellido1>Baza</apellido1>
+    <apellido2>López</apellido2>
+    <alias>Fofy</alias>
+    <fecha_nacimiento>1989-06-18</fecha_nacimiento>
+  </jugador>
+  <jugador cod="77">
+    <nombre>José Antonio</nombre>
+    <apellido1>Gil</apellido1>
+    <apellido2>Farina</apellido2>
+    <fecha_nacimiento>1998-02-01</fecha_nacimiento>
+  </jugador>
+  <jugador cod="78">
+    <nombre>José</nombre>
+    <apellido1>Ramiro</apellido1>
+    <apellido2>Siles</apellido2>
+    <alias>Pepo</alias>
+    <fecha_nacimiento>1987-06-01</fecha_nacimiento>
+  </jugador>
+  <jugador cod="79">
+    <nombre>Frederic</nombre>
+    <apellido1>Falcó</apellido1>
+    <apellido2>Hermosín</apellido2>
+    <alias>Fede</alias>
+    <fecha_nacimiento>1991-08-10</fecha_nacimiento>
+  </jugador>
+  <jugador cod="80">
+    <nombre>Jaime</nombre>
+    <apellido1>Rosal</apellido1>
+    <apellido2>Matas</apellido2>
+    <alias>Pitu</alias>
+    <fecha_nacimiento>1987-08-21</fecha_nacimiento>
+  </jugador>
+</jugadores>

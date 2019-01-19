@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+	<datos>
+		<nombre>Muebles Pepe</nombre>
+		<cif>A12345678</cif>
+		<localidad>Alcalá de Guadaira</localidad>
+		<provincia>Sevilla</provincia>
+		<telefono>955000000</telefono>
+		<telefono>955000001</telefono>
+		<fax>955000002</fax>
+		<email>direccion@mueblespepe.net</email>
+		<director>123</director>
+		<web>http://www.mueblespepe.com</web>
+		<logo>logo.gif</logo>
+	</datos>
+	<sedes>
+		<sede num="1">
+			<datossede>
+				<direccion>C/. Charco n.8</direccion>
+				<localidad>Rota</localidad>
+				<provincia>Cádiz</provincia>
+				<cp>11520</cp>
+				<telefono>954565455</telefono>
+			</datossede>
+			<responsable>001</responsable>
+			<trabajador>002</trabajador>
+			<trabajador>004</trabajador>
+			<trabajador>005</trabajador>
+			<trabajador>008</trabajador>
+			<trabajador>009</trabajador>
+		</sede>
+		<sede num="2">
+			<datossede>
+				<direccion>C/. Isaac Peral s/n</direccion>
+				<localidad>Alcalá de Guadaira</localidad>
+				<provincia>Sevilla</provincia>
+				<cp>41500</cp>
+				<telefono>954778741</telefono>
+			</datossede>
+			<responsable>007</responsable>
+			<trabajador>003</trabajador>
+		</sede>
+		<sede num="3">
+			<datossede>
+				<direccion>C/. Fuengirola n.3</direccion>
+				<localidad>Huelva</localidad>
+				<provincia>Huelva</provincia>
+				<cp>21015</cp>
+				<telefono>957458961</telefono>
+			</datossede>
+			<responsable>006</responsable>
+			<trabajador>011</trabajador>
+			<trabajador>012</trabajador>
+		</sede>
+	</sedes>
+</empresa>

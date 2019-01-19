@@ -5,7 +5,7 @@
 			<xsl:value­of select="Titulo" />
 		</PeliculaTitulo>
 	</xsl:template>
-<xsl:template match="Documental">
+	<xsl:template match="Documental">
 		<DocumentalTitulo>
 			<xsl:value­of select="Titulo" />
 		</DocumentalTitulo>

@@ -2,7 +2,7 @@
 
 <!DOCTYPE personas SYSTEM "personas.dtd">
 
-<personas>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="personas.xsd">
 
 	<persona>
 		<nombre>Diego</nombre>

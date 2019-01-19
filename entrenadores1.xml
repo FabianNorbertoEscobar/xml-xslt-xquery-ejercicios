@@ -1,0 +1,86 @@
+<entrenadores>
+  <entrenador cod="1">
+    <nombre>Juan</nombre>
+    <apellido1>Rodríguez</apellido1>
+    <apellido2>Pérez</apellido2>
+    <telefono>665587441</telefono>
+    <fecha_nacimiento>1985-11-11</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="2">
+    <nombre>Manuel</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>Gil</apellido2>
+    <telefono>658897156</telefono>
+    <fecha_nacimiento>1975-10-31</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="3">
+    <nombre>Juan Alberto</nombre>
+    <apellido1>Santos</apellido1>
+    <apellido2>Pérez</apellido2>
+    <telefono>699877458</telefono>
+    <fecha_nacimiento>1969-02-25</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="4">
+    <nombre>Antonio</nombre>
+    <apellido1>LLanes</apellido1>
+    <apellido2>Ruiz</apellido2>
+    <telefono>633225887</telefono>
+    <fecha_nacimiento>1990-05-04</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="5">
+    <nombre>Roberto</nombre>
+    <apellido1>Casas</apellido1>
+    <apellido2>Fernández</apellido2>
+    <telefono>601145887</telefono>
+    <fecha_nacimiento>1991-05-21</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="6">
+    <nombre>Juan</nombre>
+    <apellido1>Benítez</apellido1>
+    <apellido2>García</apellido2>
+    <telefono>669897581</telefono>
+    <fecha_nacimiento>1972-02-28</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="7">
+    <nombre>Pedro</nombre>
+    <apellido1>Guillén</apellido1>
+    <apellido2>Santana</apellido2>
+    <telefono>665558778</telefono>
+    <fecha_nacimiento>1977-01-15</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="8">
+    <nombre>Ernesto</nombre>
+    <apellido1>Díaz</apellido1>
+    <apellido2>Huertas</apellido2>
+    <telefono>610554795</telefono>
+    <fecha_nacimiento>1965-12-15</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="9">
+    <nombre>Pepe</nombre>
+    <apellido1>Sánchez</apellido1>
+    <apellido2>Maldonado</apellido2>
+    <telefono>NULL</telefono>
+    <fecha_nacimiento>1964-04-06</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="10">
+    <nombre>Alberto</nombre>
+    <apellido1>Cortés</apellido1>
+    <apellido2>Sánchez</apellido2>
+    <telefono>611022365</telefono>
+    <fecha_nacimiento>1999-09-01</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="11">
+    <nombre>Federico</nombre>
+    <apellido1>López</apellido1>
+    <apellido2>López</apellido2>
+    <telefono>600220236</telefono>
+    <fecha_nacimiento>1997-01-02</fecha_nacimiento>
+  </entrenador>
+  <entrenador cod="12">
+    <nombre>Juan José</nombre>
+    <apellido1>Martín</apellido1>
+    <apellido2>Vela</apellido2>
+    <telefono>600055050</telefono>
+    <fecha_nacimiento>1992-11-02</fecha_nacimiento>
+  </entrenador>
+</entrenadores>
