@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passengers>
+	<passenger>
+		<firstname>Sundar</firstname>
+		<lastname>Pichai</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>Bill</firstname>>
+		<lastname>Gates</lastname>
+		<class>Business</class>
+	</passenger>
+	<passenger>
+		<firstname>Arnold</firstname>
+		<lastname>Schwarzenegger</lastname>
+		<class>First</class>
+	</passenger>
+	<passenger>
+		<firstname>Bharath</firstname>
+		<lastname>Thippireddy</lastname>
+		<class>Economy</class>
+	</passenger>
+</passengers>

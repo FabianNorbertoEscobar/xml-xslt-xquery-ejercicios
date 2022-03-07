@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentScores>
+	<College>Stanford</College>
+	<Student id="1">
+		<FirstName>Tom</FirstName>
+		<LastName>Cruise</LastName>
+		<Score>90</Score>
+	</Student>
+	<Student id="2">
+		<FirstName>Amitabh</FirstName>
+		<LastName>Bachan</LastName>
+		<Score>95</Score>
+	</Student>
+	<Student id="3">
+		<FirstName>Hillary</FirstName>
+		<LastName>Clinton</LastName>
+		<Score>70</Score>
+	</Student>
+	<Student id="4">
+		<FirstName>Donald</FirstName>
+		<LastName>Trump</LastName>
+		<Score>70</Score>
+	</Student>
+</StudentScores>

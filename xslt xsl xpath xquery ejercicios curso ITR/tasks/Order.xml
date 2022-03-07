@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Order id="12345">
+	<CustomerName>Sparsa Reddy</CustomerName>
+	<Item>
+		<ItemId>007</ItemId>
+		<ItemName>iPhone 7</ItemName>
+		<Price>700</Price>
+		<Quantity>1</Quantity>
+	</Item>
+	<Item>
+		<ItemId>456</ItemId>
+		<ItemName>Ipad</ItemName>
+		<Price>600</Price>
+		<Quantity>2</Quantity>
+	</Item>
+	<Item>
+		<ItemId>786</ItemId>
+		<ItemName>Personal Development Book</ItemName>
+		<Price>10</Price>
+		<Quantity>10</Quantity>
+	</Item>
+	<Item>
+		<ItemId>123</ItemId>
+		<ItemName>Java Book</ItemName>
+		<Price>20</Price>
+		<Quantity>12</Quantity>
+	</Item>
+</Order>
